@@ -1,2 +1,1 @@
-# stepik---auto-tests-course
-Homework
+It is test ^_^)
